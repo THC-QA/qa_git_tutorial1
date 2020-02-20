@@ -1,4 +1,5 @@
 ```# This is a python file.
-
-for time in hour:
-    Keep Working...```
+daily_tasks = [1,2,3,4,5]
+accomplishment = 0
+for task in daily_tasks:
+    acomplishment += 1```
